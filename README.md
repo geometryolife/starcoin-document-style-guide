@@ -1,4 +1,6 @@
-中文技术文档的写作规范。
+Starcoin 技术文档的写作规范。
+
+试验仓库：[`starcoinorg/starcoin-cookbook`](https://github.com/starcoinorg/starcoin-cookbook)
 
 ## 目录
 
