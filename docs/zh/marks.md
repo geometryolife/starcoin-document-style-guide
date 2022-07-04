@@ -187,3 +187,15 @@
 ```
 例句：不要把`个人账户地址`和 `generate-keypair 生成的地址`混淆！
 ```
+
+### 反引号应该在哪些地方使用
+
+渲染引擎能够突出显示反引号包裹的内容，反引号的恰当使用可以方便读者更快地定位、区分内容。
+
+- 变量名，如：`LIBCLANG_PATH`、`MyModule`、`gas_used`、`$PATH`。
+- 命令，如：`gcc`、`starcoin`、`starcoin -n dev`、`mpm package new`。
+- 关键词，如：`copy`、`drop`、`stare`、`key`。
+- 文件，如：`README.md`、`lib.rs`。
+- 文件路径或目录路径，如：`starcoin/chain/src/chain.rs`、`/home/starcoin/my-counter/sources/`。
+- IP 地址，如：`192.168.1.2`、`localhost:8080`。
+- URL，如：`https://starcoin.org/en`、`https://starcoinorg.github.io/starcoin-cookbook/zh`。
